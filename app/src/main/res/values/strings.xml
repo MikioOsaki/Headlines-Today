@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Headlines Today</string>
+    <string name="headline_1">Headline</string>
+    <string name="text_1">Text</string>
+    <string name="date_1">Date</string>
+    <string-array name="spinner_items">
+        <item>Huffington Post</item>
+        <item>Google News</item>
+        <item>Zeit Online</item>
+        <item>Spiegel Online</item>
+        <item>BBC News</item>
+        <item>Guardian UK</item>
+        <item>CNBC</item>
+        <item>CNN</item>
+        <item>Tagesspiegel</item>
+        <item>Focus</item>
+        <item>Handelsblatt</item>
+        <item>National Geographic</item>
+        <item>Independent</item>
+        <item>Washington Post</item>
+        <item>BBS Sport</item>
+    </string-array>
+</resources>
