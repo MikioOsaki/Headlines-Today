@@ -26,6 +26,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
+//TODO: find out why foldersize is over 100 MB
 //TODO: make Imagesize in ImaveView consistent
 //TODO: exchange SeekBar for Next/Prev Button
 //TODO: create more Display space / militarize controls as much as possible
